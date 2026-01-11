@@ -1,0 +1,5 @@
+1. Node.js handles multiple requests efficiently using an asynchronous, non-blocking event loop.
+
+2. Express uses middleware to process requests (auth, logging, validation) before sending responses.
+
+3. Express-JS is good for lightweight and fast for building scalable APIs and microservices.
